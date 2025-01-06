@@ -4,7 +4,10 @@
 Ce projet consiste à concevoir une base de données pour le restaurant de street-food italien **Tifosi**. La base de données est utilisée pour gérer les focaccias, leurs ingrédients, les marques, et les boissons.
 
 ## Structure du projet
-- `sql/backup_tifosi.sql` : Sauvegarde complète de la base de données, incluant la création des tables, les relations, et les données tests.
+- `sql/create_database.sql` : Script pour créer la base de données et les tables.
+- `sql/insert_data.sql` : Script pour insérer les données tests.
+- `sql/backup_tifosi.sql` : Sauvegarde complète de la base de données.
+
 
 ## Contenu de la base de données
 ### Tables principales
